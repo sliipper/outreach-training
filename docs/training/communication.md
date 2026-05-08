@@ -1,5 +1,5 @@
-# Communication Tips
+# Communication
 
-- **Avoid Jargon**: Use "energy" instead of "Hamiltonian" when talking to kids.
-- **Interactive Q&A**: Ask students what they think will happen before starting a demo.
-- **Relatability**: Link physics to everyday life.
+- **Avoid jargon**: Avoid technical terms, or explain them if you do. Use our [glossary](resources/glossary.md) to help!
+- **Ask questions**: Asking questions of your audience helps to gauge their level, so you are less likely to lose them 
+- **Relatability**: Try linking concepts to things they are likely to be familiar with 
