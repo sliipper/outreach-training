@@ -1,4 +1,4 @@
-site_name: Physics Outreach Training & Resources
+site_name: LHCb Outreach & Engagement Liaisons
 theme:
   name: material
   palette:
@@ -27,9 +27,6 @@ nav:
   - Home: index.md
   - Training:
     - Overview: training/index.md
-    - Safety Protocols: training/safety.md
-    - Communication Tips: training/communication.md
   - Resources:
     - Overview: resources/index.md
-    - Physics Demos: resources/demos.md
-    - Lesson Plans: resources/lessons.md
+    - Glossary: resources/glossary.md

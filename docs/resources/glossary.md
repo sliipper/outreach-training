@@ -1,5 +1,8 @@
 # Glossary
 This is a glossary of usual technical terms with suggestions lay explanations
 
-Second Term
-: This is one definition of the second term.
+### Term
+Definition text here.
+
+### Luminosity
+A word to describe how 'bright' the proton beams are. If we have more luminous beams, we can collide more photons each time the beams come together, so we can collect data at a larger rate. 
