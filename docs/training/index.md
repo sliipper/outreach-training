@@ -1,6 +1,2 @@
 # Training Overview
-
-Welcome to the team! This section covers everything you need to know to be a successful outreach ambassador.
-
-- **Safety**: Protocols for handling equipment.
-- **Communication**: How to explain complex concepts to different age groups.
+This training should contain eveyrthing you should need to consider when doing public outreach and creating material for social media
