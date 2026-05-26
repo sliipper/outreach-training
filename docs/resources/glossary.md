@@ -2,7 +2,7 @@
 This is a glossary of technical terms or acronyms with suggestions of lay explanations
 
 ## Jump to:
-[A](#a) · [L](#l) · 
+[A](#a) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [F](#F) · [G](#G) · [H](#H) · [I](#I) · [J](#J) · [K](#K) · [L](#L) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [Q](#Q) · [R](#R) · [S](#S) · [T](#T) · [U](#U) · [V](#V) · [W](#W) · [X](#X) · [Y](#Y) · [Z](#Z) ·
 ## A
 ### Accelerator
 Particle accelerators like the LHC use electric and magnetic fields to create high-energy beams of particles. Electric fields increase the speeds of the particles and increase their energies, while magnetic fields are used to 'bend' the beams and drive them around a ring like at the LHC. Magnetic fields are also used 
