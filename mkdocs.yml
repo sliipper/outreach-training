@@ -27,7 +27,8 @@ nav:
   - Home: index.md
   - Training: 
     - Overview: training/index.md
-    - Communication: trainig/communication.md
+    - Communication: training/communication.md
   - Resources:
     - Overview: resources/index.md
     - Glossary: resources/glossary.md
+    - Scales at LHCb: resources/scales.md 
