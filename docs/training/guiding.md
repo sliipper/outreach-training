@@ -3,3 +3,5 @@ This page contains information on giving guided tours of the LHCb above-ground e
 
 ## Guide for guides
 <iframe src="docs/training/Guide4Guides.pdf" width="100%" height="600px"></iframe>
+
+[TEST PDF LINK](docs/training/Guide4Guides.pdf)
