@@ -4,3 +4,4 @@ These are useful resources you can turn to when preparing to meet with members o
 - [Glossary](glossary.md)
 - [Scales at LHCb](scales.md)
 - [Interview question bank](interview_questions.md)
+- [Useful links](other.md)
