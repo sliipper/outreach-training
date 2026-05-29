@@ -28,7 +28,11 @@ nav:
   - Training: 
     - Overview: training/index.md
     - Communication: training/communication.md
+    - Guiding: training/guiding.md
+    - Content creation: training/content_creation.md
   - Resources:
     - Overview: resources/index.md
     - Glossary: resources/glossary.md
     - Scales at LHCb: resources/scales.md 
+    - Interview questions: resources/interview_questions.md 
+    - Useful links: resources/other.md
