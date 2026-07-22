@@ -1,21 +1,20 @@
 # Scales at LHCb
-Useful to provide scales to help audience understand and visualise what you are explaining. 
+Useful to provide scales to help audience understand and visualise what you are explaining. The CERN [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider/) webpage has many useful facts and figures for the LHC. 
 
-## LHC and LHCb statistics
-- Number of protons per bunch
-- Number of bunch crossings per second
-- Number of B-mesons in in our dataset
-- Size of our dataset 
-- Size of LHCb (15m or something)
+## LHCb statistics
+- LHCb has collected 37 fb$^-1$ of data up to the end of Run 3, see [operations webpages](https://lbgroups.cern.ch/online/operations_plots/)
+- LHCb is roughly 20m long and 5m high
 - How heavy is LHCb?! Has anyone worked this out before? (maybe we can work this out?)
 
 
 ## Putting units in context the public can understand
 
-- LHC proton beam energy, 13.6 TeV is an energy equivalent to ...
+- LHC proton beam energy, 13.6 TeV is an energy equivalent to a fly!
 
-- Bunch crossing rate faster than ...
+- The LHC collides bunches of protons 40 million times per second, so there are 25 nano seconds between the collisions. This means roughly 10 million collisions happen in the time it takes you to blink!
 
-- Precision of velo is like measuring a human hair to within ?! 
+- The VELO can measure the primary vertex position, the place where our $b$-hadrons are created, to within the width of a human hair
 
-- etc 
+- LHCb is 20m long, equivalent to two double-decker London buses end-to-end, around 5 African Bush Elephants or a Sperm Whale! 
+
+- The LHCb magnets each weigh 27 tonnes, which is roughly equivlent to 23 giraffes
