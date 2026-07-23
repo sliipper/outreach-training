@@ -2,12 +2,11 @@
 Useful to provide scales to help audience understand and visualise what you are explaining. The CERN [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider/) webpage has many useful facts and figures for the LHC. 
 
 ## LHCb statistics
-- LHCb has collected 37 fb$^-1$ of data up to the end of Run 3, see [operations webpages](https://lbgroups.cern.ch/online/operations_plots/)
-- LHCb is roughly 20m long and 5m high
-- How heavy is LHCb?! Has anyone worked this out before? (maybe we can work this out?)
+- LHCb has collected 37 fb$^-1$ of data up to the end of Run 3, see [operations webpages](https://lbgroups.cern.ch/online/operations_plots/) 
 
+- The whole dataset is a total of XX {prefix}bytes, this is the same as *insert something people can understand*
 
-## Putting units in context the public can understand
+- The whole LHCb detector weighs roughly 5600 tonnes, this is about the same as the fully-fuelled SpaceX Starship!
 
 - LHC proton beam energy, 13.6 TeV is an energy equivalent to a fly!
 
