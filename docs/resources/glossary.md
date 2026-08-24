@@ -16,7 +16,6 @@ Particle accelerators like the LHC use electric and magnetic fields to create hi
 ## D
 ### DAQ 
 Stands for data acquisition - allows us to convert the signals seen by our equipment into data we can process with our computers
----
 
 ## E
 ### ECAL
