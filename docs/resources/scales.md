@@ -2,9 +2,9 @@
 Useful to provide scales to help audience understand and visualise what you are explaining. The CERN [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider/) webpage has many useful facts and figures for the LHC. 
 
 ## LHCb statistics
-- LHCb has collected 37 fb$^-1$ of data up to the end of Run 3, see [operations webpages](https://lbgroups.cern.ch/online/operations_plots/) 
+- LHCb has collected 37 fb$^{-1}$ of data up to the end of Run 3, see [operations webpages](https://lbgroups.cern.ch/online/operations_plots/) 
 
-- The whole dataset is a total of XX {prefix}bytes, this is the same as *insert something people can understand*
+- The whole dataset is a roughly 200 petabytes, this is the same as 100 million 2-hour movies!
 
 - The whole LHCb detector weighs roughly 5600 tonnes, this is about the same as the fully-fuelled SpaceX Starship!
 
