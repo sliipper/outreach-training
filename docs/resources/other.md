@@ -10,5 +10,5 @@ Below you can find links to useful resources on the web
 
 ## Using images online
 - [LHCb images on CDS](https://cds.cern.ch/?ln=en)
-- [Finding creative commons media](https://libguides.bodleian.ox.ac.uk/OAandCC/findingCC)
+- [Finding media licensed under creative commons](https://libguides.bodleian.ox.ac.uk/OAandCC/findingCC)
 
