@@ -5,7 +5,7 @@
 - **Relatability**: Try linking concepts to things they are likely to be familiar with e.g. Cherenkov raditaion and 'sonic boom' breaking the sound barrier
 
 # Know your audience
-Keep in mind the key things your audience want to know. Good example is [article](https://lheurtier.github.io/LHCb.html) by Will Barter.
+Keep in mind the key things your audience want to know. Good example is this [article](https://lheurtier.github.io/LHCb.html) by Will Barter.
 
 ## School-age children and young adults 
 When aiming to communicate with younger students and school groups, it is useful to keep in mind what they may have covered at school. E.g. in the UK, pupils may not encounter the term 'quark' until 16yo. They will be most interested to learn 
