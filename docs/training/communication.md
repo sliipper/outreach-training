@@ -9,6 +9,7 @@ Keep in mind the key things your audience want to know. Good example is this [ar
 
 ## School-age children and young adults 
 When aiming to communicate with younger students and school groups, it is useful to keep in mind what they may have covered at school. E.g. in the UK, pupils may not encounter the term 'quark' until 16yo. They will be most interested to learn:
+
 * what are the big questions?
 * what are we finding out about?
 * how does it work? 
@@ -17,6 +18,7 @@ When aiming to communicate with younger students and school groups, it is useful
 
 ## Politicians, funding agencies
 Whilst also interested in our physics, when communicating with goverment, funding agencies or policiticans, they will be most interested to learn 
+
 - what benefit does our experiment have on society?
 - is this project good value for money?
 

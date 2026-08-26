@@ -4,6 +4,7 @@ This page contains a guide for creating material and content for our social medi
 ## Creating image-based posts for Instagram
 
 [Canva](https://www.canva.com/) is a very good (free) tool for making posts for social media, you just need to create an account. 
+
 - You can also add photos/videos: Home -> elements -> photos/videos.
 - Adding videos to posts can be fun too.
 
@@ -35,6 +36,7 @@ This page contains a guide for creating material and content for our social medi
 
 ## Filming interviews 
 When interviewing people for reels/short form content:
+
 - Use a handheld microphone if available, or film in a quiet area. Check that the sound is loud and clear. If based at CERN the Social Media Managers have high quality microphones which can be used for this purpose. They are very easy to use, but make sure they’re charged beforehand.
 - Try and find a location with reasonable lighting so that the interviewee is clearly visible and not in shadows.
 - Discuss the answers to the questions with the interviewee beforehand. Do not be afraid to do multiple takes.
