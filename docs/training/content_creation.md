@@ -9,8 +9,8 @@ This page contains a guide for creating material and content for our social medi
 - Adding videos to posts can be fun too.
 
 ### Choosing images
-- CERN provides the image free of charge for educational and informational use via CDS, provided CERN is credited (for example by placing ©XXXCERN in the corner where XXXX is the copyright year which can be found with the image on CDS). Full terms can be found here: https://copyright.web.cern.ch/.
-- LHCb photos on CDS: https://cds.cern.ch/collection/LHCb%20Photos?ln=en.
+- CERN provides the image free of charge for educational and informational use via CDS, provided CERN is credited (for example by placing ©XXXCERN in the corner where XXXX is the copyright year which can be found with the image on CDS). Full terms can be found here: [https://copyright.web.cern.ch/.](https://copyright.web.cern.ch/.)
+- LHCb photos on CDS: [https://cds.cern.ch/collection/LHCb%20Photos?ln=en.](https://cds.cern.ch/collection/LHCb%20Photos?ln=en.)
 - Images from other sources should be checked for their copyright. Some copyrighted material can be used for educational purposes provided the source is credited (similar to the CERN copyright policy). Generally look for Creative Commons (CC) licenses.
 - If something is copyrighted with “All Rights Reserved”, it means that it cannot be used without explicit permission of the copyright holder. If you are unsure, it is better to find a different image!
 - Sources of images which may be helpful and are licensed under creative commons (or similar) licenses include [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page), [openverse](https://openverse.org/) for stock images, [Nasa](https://images.nasa.gov/) image library (you can check their policy [here](https://www.nasa.gov/nasa-brand-center/images-and-media/)).
