@@ -14,7 +14,7 @@ This page contains a guide for creating material and content for our social medi
 - If something is copyrighted with “All Rights Reserved”, it means that it cannot be used without explicit permission of the copyright holder. If you are unsure, it is better to find a different image!
 - Sources of images which may be helpful and are licensed under creative commons (or similar) licenses include [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page), [openverse](https://openverse.org/) for stock images, [Nasa](https://images.nasa.gov/) image library (you can check their policy [here](https://www.nasa.gov/nasa-brand-center/images-and-media/)).
 
-- We *strongly* advise against the use of AI-generated imagery in social media posts. 
+- **We *strongly* advise against the use of AI-generated imagery in social media posts**. 
 
 ### General design advice:
 - Have a clear message - what do you want someone to take away from this?
