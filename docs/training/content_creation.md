@@ -17,14 +17,16 @@ This page contains a guide for creating material and content for our social medi
 - **We *strongly* advise against the use of AI-generated imagery in social media posts**. 
 
 ### General design advice:
-- Have a clear message - what do you want someone to take away from this?
-- Generally only make one point per image.
+- Have a clear message - what do you want someone to take away from this post?
 - Have a hook - what line can you use to draw people in and make them want to learn more?
-- Making something dramatic often gets more views on IG! How can you make what you're discussing sound cool?
+- Generally make only one point per image/graphic.
+- Making something dramatic often gets more views on Instagram. How can you make what you're discussing sound cool and exciting to a non-expert?
+- You can consider why the audience should care about what you're discussing and tie this into the message.
 - The human eyes track top left to bottom right - this can be helpful to build this into the design.
 
 ### Writing captions:
-- Instagram only shows the first ~125 characters without needing to click more, so use the first sentence to draw people in.
+- Instagram only shows the first ~125 characters without needing to click "more", so use the first sentence to draw people in.
+- Emojis can be helpful to break up text blocks.
 
 ### Sound on Instagram posts
 - Adding sound means the algorithm will also use your post as a reel, meaning that it will reach more people - Therefore think about if you could add appropriate music as a soundtrack.
@@ -33,7 +35,8 @@ This page contains a guide for creating material and content for our social medi
 
 ## Filming interviews 
 When interviewing people for reels/short form content:
-- Use a handheld microphone if available, or film in a quiet area. Check that the sound is loud and clear. If based at CERN the Social Media Managers have high quality microphones which can be used for this purpose. They are very easy to use, but make sure they’re charged beforehand. 
+- Use a handheld microphone if available, or film in a quiet area. Check that the sound is loud and clear. If based at CERN the Social Media Managers have high quality microphones which can be used for this purpose. They are very easy to use, but make sure they’re charged beforehand.
+- Try and find a location with reasonable lighting so that the interviewee is clearly visible and not in shadows.
 - Discuss the answers to the questions with the interviewee beforehand. Do not be afraid to do multiple takes.
 - Ensure the answers are concise and, as best as possible, free from jargon.
 - Frame the interviewee in the centre of the frame. Instagram adds elements that hover over the content at the top, bottom and right hand side of the frame.
