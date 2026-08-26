@@ -16,7 +16,7 @@ Additional information on other parts of the accelerator complex can be found at
 
 - The LHC collides bunches of protons 40 million times per second, so there are 25 nano seconds between the collisions. This means roughly 10 million collisions happen in the time it takes you to blink!
   
-- Each proton bunch in the LHC contains $~10^11$ protons. This is about the same number of protons as there are stars in our galaxy! And we have about 2800 of these bunches in each of the two beams in the LHC.
+- Each proton bunch in the LHC contains $~10^{11}$ protons. This is about the same number of protons as there are stars in our galaxy! And we have about 2800 of these bunches in each of the two beams in the LHC.
 
 - The VELO can measure the primary vertex position, the place where our $b$-hadrons are created, to within the width of a human hair
 
