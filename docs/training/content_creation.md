@@ -42,6 +42,7 @@ When interviewing people for reels/short form content:
 - Discuss the answers to the questions with the interviewee beforehand. Do not be afraid to do multiple takes.
 - Ensure the answers are concise and, as best as possible, free from jargon.
 - Frame the interviewee in the centre of the frame. Instagram adds elements that hover over the content at the top, bottom and right hand side of the frame.
+- Leave a few (~4-5) seconds of silence minimum at the start and end of each video. This will make editing multiple frames together much easier!
 
 ## Editing videos
 - Captions can be added to videos using many free tools, including Canva.
